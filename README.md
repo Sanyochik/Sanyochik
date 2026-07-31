@@ -55,8 +55,7 @@
 
 ## 📊 Моя активность
 
-![Моя статистика GitHub]([https://github-readme-stats.vercel.app/api?username=Sanyochik&show_icons=true&theme=default&hide=contribs,prs](https://gh-readme-stats-khaki.vercel.app/api?username=Sanyochik&show_icons=true))
-![Мой топ языков]([https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyochik&layout=compact&hide=html,css](https://gh-readme-stats-khaki.vercel.app/api/top-langs/?username=Sanyochik&layout=compact&hide=html,css))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sanyochik)](https://git.io/streak-stats)
 
 ---
 
