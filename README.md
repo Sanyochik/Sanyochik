@@ -55,8 +55,24 @@
 
 ## 📊 Моя активность
 
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Sanyochik&show_icons=true&theme=default&hide=contribs,prs)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyochik&layout=compact&hide=html,css)
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=Sanyochik&show_icons=true&theme=default&hide=contribs,prs&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanyochik&show_icons=true&theme=default&hide=contribs,prs&cache_seconds=1800" alt="Статистика GitHub" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyochik&layout=compact&hide=html,css&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyochik&layout=compact&hide=html,css&cache_seconds=1800" alt="Топ языков" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+> ⚡ **Примечание**: Статистика обновляется с задержкой. Если картинки не отображаются — попробуйте обновить страницу через пару минут.
 
 ---
 
