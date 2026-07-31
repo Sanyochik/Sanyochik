@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://spb.hh.ru/resume/9848bae7ff0ffa94940039ed1f7a6275774555">📄 Резюме</a> •
-  <a href="https://t.me/@DreamHolo">📫 Связаться со мной</a>
+  <a href="https://t.me/DreamHolo">📫 Связаться со мной</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 | [**hrplatform**](https://github.com/Sanyochik/hrplatform) | HR-платформа для управления кандидатами. (Кросс-платформенное решение). | `PHP` |
 | [**mailer**](https://github.com/Sanyochik/mailer) | Парсер писем для автоматического создания лидов в Bitrix24 с комментариями. | `PHP` |
 | [**habrparserpython**](https://github.com/Sanyochik/habrparserpython) | Базовый парсер для сбора последних тем с Habr. | `Python` |
-| [**dndgame**](https://github.com/Sanyochik/dndgame) | Консольная игра в стиле D&D на Python. (Пет-проект). | `Python` |
+| [**dndgame**](https://github.com/Sanyochik/dndgame) | Desctop игра в стиле D&D на Python. (Пет-проект). | `Python` |
 | [**qrgeneratorapi**](https://github.com/Sanyochik/qrgeneratorapi) | API-сервис для генерации QR-кодов. | `PHP` |
 | [**WeatherForm**](https://github.com/Sanyochik/WeatherForm) | Приложение для получения погоды через OpenWeather API. | `Python` |
 
@@ -64,7 +64,7 @@
 
 Я открыт к интересным предложениям и сотрудничеству.
 
-*   **Telegram:** [@[DreamHolo](https://t.me/@DreamHolo)
+*   **Telegram:** [@DreamHolo](https://t.me/DreamHolo)
 *   **Email:** [sasha_ump@mail.ru](mailto:sasha_ump@mail.ru)
 *   **HeadHunter:** [Ссылка на ваше резюме](https://spb.hh.ru/resume/9848bae7ff0ffa94940039ed1f7a6275774555)
 
