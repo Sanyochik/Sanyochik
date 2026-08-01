@@ -66,9 +66,3 @@
 *   **Telegram:** [@DreamHolo](https://t.me/DreamHolo)
 *   **Email:** [sasha_ump@mail.ru](mailto:sasha_ump@mail.ru)
 *   **HeadHunter:** [Ссылка на ваше резюме](https://spb.hh.ru/resume/9848bae7ff0ffa94940039ed1f7a6275774555)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanyochik&label=Просмотров%20профиля&color=0e75b6&style=flat" alt="Счетчик просмотров" />
-</p>
