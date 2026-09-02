@@ -46,7 +46,7 @@
 | [**hrplatform**](https://github.com/Sanyochik/hrplatform) | HR-платформа для управления кандидатами. | `PHP` |
 | [**mailer**](https://github.com/Sanyochik/mailer) | Парсер писем для автоматического создания лидов в Bitrix24 с комментариями. | `PHP` |
 | [**habrparserpython**](https://github.com/Sanyochik/habrparserpython) | Базовый парсер для сбора последних тем с Habr. | `Python` |
-| [**dndgame**](https://github.com/Sanyochik/dndgame) | Desctop игра в стиле D&D на Python. (Пет-проект). | `Python` |
+| [**dndgame**](https://github.com/Sanyochik/dndgame) | Desktop игра в стиле D&D на Python. (Пет-проект). | `Python` |
 | [**qrgeneratorapi**](https://github.com/Sanyochik/qrgeneratorapi) | API-сервис для генерации QR-кодов. | `PHP` |
 | [**WeatherForm**](https://github.com/Sanyochik/WeatherForm) | Приложение для получения погоды через OpenWeather API. | `Python` |
 
