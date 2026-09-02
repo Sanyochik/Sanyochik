@@ -42,7 +42,8 @@
 
 | Название проекта | Описание | Стек |
 | :--- | :--- | :--- |
-| [**hrplatform**](https://github.com/Sanyochik/hrplatform) | HR-платформа для управления кандидатами. (Кросс-платформенное решение). | `PHP` |
+| [**fast-api-jwt**](https://github.com/Sanyochik/fast-api-jwt) | **Асинхронный REST API сервис аутентификации** на FastAPI с JWT-токенами и Redis. Реализована гибридная схема аутентификации (Access + Refresh токены) с хранением сессий в Redis. Пет-проект для отработки навыков бэкенд-разработки, работы с Docker и тестирования. | **Python, FastAPI, JWT, Redis, Docker, pytest** |
+| [**hrplatform**](https://github.com/Sanyochik/hrplatform) | HR-платформа для управления кандидатами. | `PHP` |
 | [**mailer**](https://github.com/Sanyochik/mailer) | Парсер писем для автоматического создания лидов в Bitrix24 с комментариями. | `PHP` |
 | [**habrparserpython**](https://github.com/Sanyochik/habrparserpython) | Базовый парсер для сбора последних тем с Habr. | `Python` |
 | [**dndgame**](https://github.com/Sanyochik/dndgame) | Desctop игра в стиле D&D на Python. (Пет-проект). | `Python` |
