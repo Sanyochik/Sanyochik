@@ -42,7 +42,7 @@
 
 | Название проекта | Описание | Стек |
 | :--- | :--- | :--- |
-| [**fast-api-jwt**](https://github.com/Sanyochik/fast-api-jwt) | **Асинхронный REST API сервис аутентификации** на FastAPI с JWT-токенами и Redis. Реализована гибридная схема аутентификации (Access + Refresh токены) с хранением сессий в Redis. Пет-проект для отработки навыков бэкенд-разработки, работы с Docker и тестирования. | `Python, FastAPI, JWT, Redis` |
+| [**fast-api-jwt**](https://github.com/Sanyochik/fast-api-jwt) | **Асинхронный REST API сервис аутентификации** на FastAPI с JWT-токенами и Redis. Реализована гибридная схема аутентификации (Access + Refresh токены) с хранением сессий в Redis. | `Python, FastAPI, JWT, Redis` |
 | [**laravel_jwt**](https://github.com/Sanyochik/laravel_jwt) | Laravel CRM с JWT-аутентификацией | `PHP,Laravel,JWT` |
 | [**hrplatform**](https://github.com/Sanyochik/hrplatform) | HR-платформа для управления кандидатами. | `PHP` |
 | [**mailer**](https://github.com/Sanyochik/mailer) | Парсер писем для автоматического создания лидов в Bitrix24 с комментариями. | `PHP` |
